@@ -20,3 +20,5 @@ Passengers also seemed to be less satisified on shorter flights than longer ones
 These analyses were performed with the help of SQL Server on the following Kaggle dataset:
 https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
+You can view the entire dashboard on my Tableau profile:
+https://public.tableau.com/app/profile/hans.schaper/viz/Flight_Insights_Draft/Dashboard1
